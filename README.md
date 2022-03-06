@@ -17,3 +17,4 @@
 - [JSON](https://github.com/Baejiu/study__interviewFrontend/blob/main/Programming/JSON.md)
 - [객체지향 프로그래밍](https://github.com/Baejiu/study__interviewFrontend/blob/main/Programming/OOP.md)
 - [Pass by value / Pass by Reference](https://github.com/Baejiu/study__interviewFrontend/blob/main/Programming/Pass_by.md)
+- [브라우저 저장소](https://github.com/Baejiu/study__interviewFrontend/blob/main/Programming/BrowserStorage.md)
